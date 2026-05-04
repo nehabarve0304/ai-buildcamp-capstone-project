@@ -1,14 +1,18 @@
-# Your Project Name
-
-A starter template for the AI Engineering Buildcamp capstone. Replace this README with a description of your own project.
+# AI Resume Matcher & Job Fit Analyzer
 
 ## The Problem
 
-Describe the problem your project solves and who has it. One or two sentences.
+Job seekers often struggle not only to find relevant job opportunities but also to understand how well their profile matches those roles and what they need to improve. Existing platforms like LinkedIn and Indeed help users discover jobs, but they do not provide personalised, actionable insights on skill gaps, profile alignment, or how to improve chances of getting shortlisted. This problem affects students, early-career professionals, and experienced candidates who apply to multiple roles without clear feedback on why they are not a good fit.
 
 ## What It Does
 
-Describe what the AI system does and a typical interaction. What does the user provide? What does the system return?
+The system takes a user's CV (resume text or PDF) and optional preferences (target role, job title, location, seniority level). It then:
+- Retrieves a list of relevant job postings based on the user’s profile and preferences.
+- Extracts and structures key skills and experience from the CV.
+- Analyses requirements from selected job descriptions.
+- Compares the user’s profile with job requirements to generate a match score for each job, a clear gap analysis (missing or weak skills), actionable suggestions to improve the CV/profile, and optional interview preparation questions tailored to the role.
+
+The output is a structured report that helps the user both discover suitable jobs and understand how to improve their chances of success for each role.
 
 ## Setup
 
