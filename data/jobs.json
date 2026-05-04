@@ -1,0 +1,42 @@
+[
+  {
+    "job_title": "Backend Python Engineer",
+    "company": "TechFlow Inc.",
+    "location": "London",
+    "seniority_level": "Mid-Level",
+    "description": "We are looking for a backend engineer to build scalable APIs and microservices.",
+    "requirements": "3+ years Python, FastAPI or Django, Docker, Kubernetes, AWS, PostgreSQL. Go experience is a plus."
+  },
+  {
+    "job_title": "Fullstack Developer",
+    "company": "WebMakers",
+    "location": "Remote",
+    "seniority_level": "Junior to Mid",
+    "description": "Join our fast-paced agency building web apps for modern startups.",
+    "requirements": "Python (Flask/Django), React.js, TypeScript, RESTful APIs, MySQL. Familiarity with Vercel and CI/CD pipelines."
+  },
+  {
+    "job_title": "Data Engineer",
+    "company": "DataCorp",
+    "location": "London",
+    "seniority_level": "Senior",
+    "description": "Lead our data pipeline architecture and build robust ETL processes.",
+    "requirements": "5+ years Python, PySpark, Airflow, Snowflake, AWS Redshift. Excellent SQL skills."
+  },
+  {
+    "job_title": "Frontend Engineer",
+    "company": "UI Vision",
+    "location": "Remote",
+    "seniority_level": "Mid-Level",
+    "description": "Craft beautiful user interfaces for our enterprise clients.",
+    "requirements": "React, Vue.js, TailwindCSS, TypeScript. Python knowledge is a nice to have."
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": "AI Pioneers",
+    "location": "Berlin (Hybrid)",
+    "seniority_level": "Mid-Level",
+    "description": "Deploy and optimize ML models for our core AI product.",
+    "requirements": "Python, PyTorch, TensorFlow, MLOps, Docker, FastAPI."
+  }
+]
